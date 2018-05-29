@@ -10,7 +10,7 @@ class SessionsController < ApplicationController
 
     render 'welcome/home'
   end
-  
+
     private
 
     def auth
